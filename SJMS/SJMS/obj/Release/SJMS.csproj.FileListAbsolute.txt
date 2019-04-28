@@ -1,1 +1,0 @@
-F:\CsharpWorkSpace\SJMS\SJMS\bin\Release\SJMS.exe.config
