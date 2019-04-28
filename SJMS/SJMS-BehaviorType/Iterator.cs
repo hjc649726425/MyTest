@@ -8,7 +8,7 @@ namespace SJMS_BehaviorType
 {
     class Iterator
     {
-        //迭代器模式
+        //迭代器模式  12312
         // 提供一种方法顺序的访问一个聚合对象中各个元素，而又不暴露该对象的内部表示。
 
         public static void DoMain()
