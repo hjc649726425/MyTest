@@ -1,6 +1,6 @@
 public class MediatorModel {
 
-    //中介者模式
+    //中介者模式 Test
     //  用一个中介对象来封装一系列的对象交互。中介者使各对象不需要显式地相互引用，从而使其耦合松散，而且可以独立地改变它们之间的交互。
 
     //    1.一组对象以定义良好但是复杂的方式进行通信。产生的相互依赖关系结构混乱且难以理解。
@@ -23,7 +23,7 @@ class ConcreteMediator extends Mediator{
     private ColleagueA colleagueA;
     private ColleagueB colleagueB;
 
-    public ConcreteMediator(){
+    ConcreteMediator(){
         colleagueA = new ColleagueA();
         colleagueB = new ColleagueB();
     }
